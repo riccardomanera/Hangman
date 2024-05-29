@@ -81,7 +81,7 @@
    #timer {  
     grid-area: bot;  
     font-size: 2.5rem;  
-    background-color: rgb(255, 0, 0);  
+    background-color: rgb(150, 0, 0);  
     text-align: center;  
     display: flex;  
     align-items: center;  
